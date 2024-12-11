@@ -44,5 +44,3 @@ This project implements a custom string class (`stringg`) that mimics the functi
 - Implements proper memory management to prevent memory leaks
 - Provides bounds checking for safe operations
 - Maintains string length for efficient operations
-
-## Usage Example
